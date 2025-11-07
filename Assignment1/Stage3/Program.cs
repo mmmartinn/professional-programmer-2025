@@ -9,14 +9,6 @@ namespace Stage3;
 /// Entwickelt für: Research Division
 /// Hauptprogramm - Orchestriert die Calculator-Funktionalität mit Menüsystem
 /// </summary>
-/// <remarks>
-/// Stage 3 Enhancements:
-/// 1. ✓ Menüsystem für verschiedene Operationstypen
-/// 2. ✓ Quadratwurzel-Operation
-/// 3. ✓ Potenz-Operation (x^y)
-/// 4. ✓ Berechnungshistorie (letzte 5 Berechnungen)
-/// 5. ✓ Erweiterte wissenschaftliche Funktionen für die Research Division
-/// </remarks>
 class Program
 {
     static void Main()
