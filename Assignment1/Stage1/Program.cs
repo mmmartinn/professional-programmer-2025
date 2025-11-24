@@ -185,8 +185,7 @@ class Program
         // Spezielle Werte behandeln
         if (double.IsPositiveInfinity(number))
         {
-            // Quelle Unendlich-Zeichen:
-            // https://www.compart.com/de/unicode/U+221E
+            // Quelle Unendlich-Zeichen: https://www.compart.com/de/unicode/U+221E
             return "+∞ (Unendlich)";
         }
 
